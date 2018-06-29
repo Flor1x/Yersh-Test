@@ -1,0 +1,12 @@
+create database db;
+
+use db;
+
+CREATE TABLE `products` (
+  `date` DATE NOT NULL ,
+  `price` int(11) NOT NULL,
+  `currency` varchar(5) NOT NULL,
+  `name` varchar(45) NOT NULL,
+
+  PRIMARY KEY (`date`)
+);
