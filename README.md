@@ -1,1 +1,1 @@
-# Yersh-Test
+Build project in IntelliJ IDEA
